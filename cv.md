@@ -8,7 +8,7 @@
 
 I am 23 years old,i work as a courier. My current job does not give me any development in life. It seems to me that I need a job that will allow me to develop all my life and be interesting at the same time. So I decided to change my profession. And so I decided to take courses at RSS School.
 
-##**Code Example**:
+## **Code Example**:
 ```
 function sum(a, b) {
   return a + b;
